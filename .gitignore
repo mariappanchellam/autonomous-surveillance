@@ -1,0 +1,37 @@
+# Build directories
+build/
+build_sim/
+build_real/
+CMakeFiles/
+*.cmake
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.a
+*.o
+*.obj
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt
+moc_*.cpp
+qrc_*.cpp
+*.moc
+
+# Temp files
+*.tmp
+*.log
+*.bak
